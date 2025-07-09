@@ -39,13 +39,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathsal14&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
----
-
-### 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/vathsal14/vathsal14/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
