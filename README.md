@@ -16,6 +16,22 @@
 
 ---
 
+### 🧰 Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
+
+---
+
 ### ⚙️ GitHub Stats
 
 <p align="center">
@@ -25,13 +41,11 @@
 
 ---
 
-### 🌀 Bachira Vibes – Flow State Activated ⚽🔥
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://media.tenor.com/AAJvKHgAjIUAAAAC/bachira-blue-lock.gif" height="230" alt="Blue Lock Bachira" />
+  <img src="https://raw.githubusercontent.com/vathsal14/vathsal14/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-> *“Let your ego out and follow your flow.”* – Bachira Meguru
 
 ---
 
