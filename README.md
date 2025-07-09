@@ -19,8 +19,8 @@
 ### ⚙️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vathsalvuppala&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathsalvuppala&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vathsal14&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathsal14&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ### 🌀 Bachira Vibes – Flow State Activated ⚽🔥
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZmc2JzYzd3cHVzNTFzYXR0aGdyNmNhdW1rOGFrcHBubnd5cDFuOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZDAEnZtTVEYgGRs4vK/giphy.gif" height="230" alt="Blue Lock Bachira" />
+  <img src="https://media.tenor.com/AAJvKHgAjIUAAAAC/bachira-blue-lock.gif" height="230" alt="Blue Lock Bachira" />
 </p>
 
 > *“Let your ego out and follow your flow.”* – Bachira Meguru
