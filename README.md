@@ -1,8 +1,9 @@
 <h1 align="center">Hey there! 👋 I'm Vathsal Vuppala</h1>
 
 <p align="center">
-  <img src="./blue-lock-banner.png" alt="Vathsal Vuppala Banner" width="100%" />
+  <img src="./blue-lock-banner.png" alt="Vathsal Vuppala Banner" width="800" style="border-radius: 12px; border: 2px solid #1f1f1f;" />
 </p>
+
 
 
 ---
