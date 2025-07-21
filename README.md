@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Vathsal Vuppala</h1>
 
 <p align="center">
-  <img src="./blue-lock-banner.png" alt="Vathsal Vuppala Banner" width="800" style="border-radius: 12px; border: 2px solid #1f1f1f;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;React+Native+%7C+Flask+%7C+Python;Lifelong+Learner+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 
