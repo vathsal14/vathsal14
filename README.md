@@ -8,17 +8,17 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🧠 Currently exploring deep learning and intelligent automation  
-- 💻 Building AI-powered healthcare apps  
-- 🌱 Always learning new technologies and tools  
-- 🛠️ Tech I work with: Python, React Native, Flask, Keras, TensorFlow, Firebase  
-- 🎯 Goal: To create impactful and scalable AI solutions  
+-  Currently exploring deep learning and intelligent automation  
+-  Building AI-powered healthcare apps  
+-  Always learning new technologies and tools  
+-  Tech I work with: Python, React Native, Flask, Keras, TensorFlow, Firebase  
+-  Goal: To create impactful and scalable AI solutions  
 
 ---
 
-### 🧰 Skills
+###  Skills
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
